@@ -1,6 +1,6 @@
 package hogwarts.hogwarts.service;
 
-import hogwarts.hogwarts.entities.Faculty;
+import hogwarts.hogwarts.model.Faculty;
 
 public interface FacultyService {
 

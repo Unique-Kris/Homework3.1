@@ -1,6 +1,6 @@
 package hogwarts.hogwarts.controller;
 
-import hogwarts.hogwarts.entities.Student;
+import hogwarts.hogwarts.model.Student;
 import hogwarts.hogwarts.service.StudentService;
 import org.springframework.web.bind.annotation.*;
 

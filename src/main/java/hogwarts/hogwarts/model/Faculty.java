@@ -1,4 +1,4 @@
-package hogwarts.hogwarts.entities;
+package hogwarts.hogwarts.model;
 
 import java.util.Objects;
 

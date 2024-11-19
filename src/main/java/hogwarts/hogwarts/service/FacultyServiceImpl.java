@@ -1,6 +1,6 @@
 package hogwarts.hogwarts.service;
 
-import hogwarts.hogwarts.entities.Faculty;
+import hogwarts.hogwarts.model.Faculty;
 import hogwarts.hogwarts.exception.NotFoundFacultyException;
 import org.springframework.stereotype.Service;
 

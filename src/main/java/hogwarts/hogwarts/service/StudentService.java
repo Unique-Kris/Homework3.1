@@ -1,6 +1,6 @@
 package hogwarts.hogwarts.service;
 
-import hogwarts.hogwarts.entities.Student;
+import hogwarts.hogwarts.model.Student;
 
 public interface StudentService {
 

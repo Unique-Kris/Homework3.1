@@ -1,6 +1,6 @@
 package hogwarts.hogwarts.service;
 
-import hogwarts.hogwarts.entities.Student;
+import hogwarts.hogwarts.model.Student;
 import hogwarts.hogwarts.exception.NotFoundStudentException;
 import org.springframework.stereotype.Service;
 
